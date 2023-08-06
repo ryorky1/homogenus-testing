@@ -8,4 +8,4 @@ protobuf==3.9.2
 #opencv-python==4.6.0.66
 #updated
 opencv-python-headless==4.1.1.26
-pillow==6.2.0
+#pillow==6.2.0
